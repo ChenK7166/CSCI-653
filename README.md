@@ -1,6 +1,7 @@
 # CSCI 653 Final Project
 
 # Change Point Detection
+The model is a general unsupervised model to detect significant changes through features over time series. For multiple change point detection, the model will recursively split the data into finer pieces and run the single detection model for each piece. Finally, a change point tree will be built.
 
 
 
