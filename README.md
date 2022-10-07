@@ -4,7 +4,7 @@
 The model is a general unsupervised model to detect significant changes through features over time series. For multiple change point detection, the model will recursively split the data into finer pieces and run the single detection model for each piece. Finally, a change point tree will be built.
 
 # Real Practice
-![Alt Text](https://github.com/ChenK7166/CSCI-653/blob/main/sample_3d-1.png)
+![Alt Text](https://github.com/ChenK7166/CSCI-653/blob/main/example.png)
 <p align="center">
     Figure example of the real practice
 </p>
