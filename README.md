@@ -6,7 +6,7 @@ The model is a general unsupervised model to detect significant changes through 
 # Real Application
 ![Alt Text](https://github.com/ChenK7166/CSCI-653/blob/main/example.png)
 <p align="center">
-    Figure example of the real practice
+    Figure: example of the real application
 </p>
 
 
