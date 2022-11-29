@@ -7,7 +7,7 @@ The model is an unsupervised model to detect significant changes through high di
 I will use **cProfile** to analyze python program and uses **VizTracer** to visualize the logfile.
 
 VizTracer example (from Internet):  
-[![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/Viztracer_example.png)](large.jpg)
+![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/Viztracer_example.png){width=50%}
 
 # Parallelization
 * Vectorization
