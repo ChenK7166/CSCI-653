@@ -1,6 +1,6 @@
 # CSCI 653 Final Project
 
-# Parallel Change Point Detection
+# Paralleled Change Point Detection
 The model is an unsupervised model to detect significant changes through high dimensional data over time series. For multiple change point detection, the model will recursively split the data into finer pieces and run the single detection model for each piece. Finally, a change point tree will be built.
 
 # Performance Profiling
